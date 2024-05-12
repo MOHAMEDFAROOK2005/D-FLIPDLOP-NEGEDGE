@@ -63,10 +63,12 @@ Developed by : VARSHA A(212223220121)
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
 
-![329512332-b6ee73b9-78d6-41b1-a093-db3f10d35bc9](https://github.com/04Varsha/D-FLIPDLOP-NEGEDGE/assets/149035374/42e366a6-a190-47d6-9fee-fbc8b4f0cbe1)
+![image](https://github.com/MOHAMEDFAROOK2005/D-FLIPDLOP-NEGEDGE/assets/150319482/32006baa-0dc1-48e0-88eb-b683370d0065)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![329512370-2bcac10e-7bd7-4d7f-8b93-18856ae7a255](https://github.com/04Varsha/D-FLIPDLOP-NEGEDGE/assets/149035374/d9c78dd5-ea5c-4bc3-aa47-555a55fe9153)
+![image](https://github.com/MOHAMEDFAROOK2005/D-FLIPDLOP-NEGEDGE/assets/150319482/53d53e45-00fd-45aa-a9dd-b0f2d281ed22)
+
 
 **RESULTS**
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
